@@ -1,0 +1,20 @@
+[
+  {
+    "height": "175",
+    "weight": "68",
+    "goal": "build muscle",
+    "restrictions": "vegetarian"
+  },
+  {
+    "height": "188",
+    "weight": "82",
+    "goal": "lose weight",
+    "restrictions": "gluten-free"
+  },
+  {
+    "height": "165",
+    "weight": "58",
+    "goal": "increase endurance",
+    "restrictions": "dairy allergy"
+  }
+]
